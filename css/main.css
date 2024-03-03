@@ -4,6 +4,7 @@ body{
 }
 
 p{
+    margin: 2%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
     color: #572152;
